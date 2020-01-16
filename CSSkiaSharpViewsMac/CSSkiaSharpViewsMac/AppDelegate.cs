@@ -1,0 +1,26 @@
+﻿using AppKit;
+using Foundation;
+using SkiaSharp;
+using SkiaSharp.Views.Mac;
+
+namespace CSSkiaSharpViewsMac
+{
+    [Register("AppDelegate")]
+    public class AppDelegate : NSApplicationDelegate
+    {
+        public AppDelegate()
+        {
+            System.Console.WriteLine(new CoreGraphics.CGPoint(0, 0).ToSKPoint());
+        }
+
+        public override void DidFinishLaunching(NSNotification notification)
+        {
+            // Insert code here to initialize your application
+        }
+
+        public override void WillTerminate(NSNotification notification)
+        {
+            // Insert code here to tear down your application
+        }
+    }
+}

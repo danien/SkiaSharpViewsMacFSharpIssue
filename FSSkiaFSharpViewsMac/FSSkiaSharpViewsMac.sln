@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "FSSkiaSharpViewsMac", "FSSkiaSharpViewsMac\FSSkiaSharpViewsMac.fsproj", "{A24B1571-71C7-4A70-AD1D-33586E69E44A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A24B1571-71C7-4A70-AD1D-33586E69E44A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A24B1571-71C7-4A70-AD1D-33586E69E44A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A24B1571-71C7-4A70-AD1D-33586E69E44A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A24B1571-71C7-4A70-AD1D-33586E69E44A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
