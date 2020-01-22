@@ -49,7 +49,6 @@
     <Reference Include="System" />
     <Reference Include="System.Core" />
     <Reference Include="Xamarin.Mac" />
-    <Reference Include="mscorlib" />
     <Reference Include="System.Numerics" />
     <Reference Include="FSharp.Core">
       <HintPath>..\packages\FSharp.Core.4.5.4\lib\netstandard1.6\FSharp.Core.dll</HintPath>
