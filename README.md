@@ -1,4 +1,9 @@
 # SkiaSharpViewsMacFSharpIssue
+
+Filed as https://github.com/mono/SkiaSharp/issues/1104#issue-550671554
+
+[EDIT: This issue is now resolved by removing the reference to mscorlib in the project. See https://github.com/mono/SkiaSharp/issues/1104#issuecomment-577113087]
+
 Temporary repo to illustrate an issue with F# projects using SkiaSharp.Views.Mac.
 
 When I try to open the SkiaSharp.Views.Mac namespace in an F# project targeting Xamarin.Mac Modern, I get a bunch of errors for a few System.Drawing types:
